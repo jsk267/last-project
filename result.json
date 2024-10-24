@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Wed, 23 Oct 2024 11:02:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>경복궁</b>",
+      "link": "https://royal.khs.go.kr/gbg",
+      "category": "여행,명소>궁궐",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 1-91 경복궁",
+      "roadAddress": "서울특별시 종로구 사직로 161 경복궁",
+      "mapx": "1269770162",
+      "mapy": "375788407"
+    },
+    {
+      "title": "<b>경복궁</b> 한옥마을점",
+      "link": "http://www.entas.co.kr/",
+      "category": "음식점>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 연수구 송도동 24-17",
+      "roadAddress": "인천광역시 연수구 테크노파크로 180",
+      "mapx": "1266388695",
+      "mapy": "373907929"
+    },
+    {
+      "title": "<b>경복궁</b> 방이점",
+      "link": "http://www.entas.co.kr/",
+      "category": "음식점>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 송파구 방이동 35",
+      "roadAddress": "서울특별시 송파구 올림픽로 348",
+      "mapx": "1271090835",
+      "mapy": "375159841"
+    },
+    {
+      "title": "<b>경복궁</b> 디큐브점",
+      "link": "http://www.entas.co.kr/",
+      "category": "음식점>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 구로구 신도림동 692 디큐브시티 현대백화점 6층 (신도림역 1번 출구)",
+      "roadAddress": "서울특별시 구로구 경인로 662 디큐브시티 현대백화점 6층 (신도림역 1번 출구)",
+      "mapx": "1268896418",
+      "mapy": "375092188"
+    },
+    {
+      "title": "<b>경복궁</b> 부평점",
+      "link": "http://www.entas.co.kr/",
+      "category": "음식점>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 부평구 삼산동 464-5",
+      "roadAddress": "인천광역시 부평구 길주로 643 명윤빌딩",
+      "mapx": "1267342072",
+      "mapy": "375072219"
+    }
+  ]
+}
